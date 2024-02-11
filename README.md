@@ -1,4 +1,8 @@
-### Hi there 👋
+### yo.
+
+currently a second-year student studying gamedev
+
+music theory nerd too um
 
 <!--
 **ooodum/ooodum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
