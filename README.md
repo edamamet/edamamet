@@ -1,6 +1,6 @@
 ### yo.
 
-currently a second-year student studying gamedev
+currently a third-year student studying gamedev
 
 music theory nerd too um
 
