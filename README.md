@@ -2,4 +2,6 @@
 
 i'm adam tam, a third-year student studying gamedev
 
-music theory nerd too um
+i use arch btw
+
+music theory nerd too
