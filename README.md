@@ -15,6 +15,7 @@ i'm adam, a third-year student studying gamedev
 ||||
 |---|---|---|
 |simd|quickshell|sdl3|
+|unreal|||
 ||||
 
 ### weird facts
