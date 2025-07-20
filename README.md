@@ -9,13 +9,14 @@ i'm adam, a third-year student studying gamedev
 |bash|lua|ts|
 ||||
 |unity|aws|git|
+|godot|||
 ||||
 
 ### currently experimenting with
 ||||
 |---|---|---|
-|simd|quickshell|sdl3|
-|unreal|steamworks||
+|bevy|rust🦀|sdl3|
+||||
 ||||
 
 ### weird facts
