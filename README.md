@@ -1,3 +1,4 @@
+![banner](.github/banner.png)
 ### yo.
 
 i'm adam, a third-year student studying gamedev
