@@ -1,7 +1,7 @@
 ![banner](.github/banner.png)
 ### yo.
 
-i'm adam, a third-year student studying gamedev
+i'm adam, a fourth-year student studying gamedev
 
 ###  langs / technologies
 ||||
