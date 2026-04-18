@@ -9,14 +9,14 @@ i'm adam, a fourth-year student studying gamedev
 |c#/.net|c/c++|py|
 |bash|lua|ts|
 ||||
-|unity|aws|git|
+|unity|sdl3|git|
 |godot|||
 ||||
 
 ### currently experimenting with
 ||||
 |---|---|---|
-|bevy|rust🦀|sdl3|
+|bevy|rust🦀||
 ||||
 ||||
 
