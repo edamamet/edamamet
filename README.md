@@ -9,8 +9,8 @@ i'm adam, a fourth-year student studying gamedev
 |c#/.net|c/c++|py|
 |bash|lua|ts|
 ||||
-|unity|sdl3|git|
-|godot|||
+|unity|sdl3|godot|
+|ue5|||
 ||||
 
 ### currently experimenting with
